@@ -14,7 +14,8 @@ function FibonacciNumber(n){
         }
 
 
-}return b}
+}return `The Fibonacci number is ${b} at position ${n}`
+}
 
 
 console.log(FibonacciNumber(3)) // 55
